@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いきてやる",
+  "base_artist": "やみの おねえさん",
+  "createdAt": "2026-02-27T16:35:18.274193Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いきてやる",
+      "artist": "やみの おねえさん",
+      "has_synced": false,
+      "path": "select/pl_01_いきてやる_やみの_おねえさん.txt"
+    }
+  ]
+}
